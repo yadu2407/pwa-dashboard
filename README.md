@@ -13,7 +13,7 @@ A Progressive Web App with Todo List and DevOps Dashboard.
 [Link to your deployed app]
 
 ## Technologies Used
-- React 18
+- React 22
 - Vite
 - PWA (Service Worker + Manifest)
 - Lucide React Icons
