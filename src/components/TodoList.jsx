@@ -147,7 +147,7 @@ const TodoList = () => {
 
         {/* Add Todo */}
         <div className="add-card">
-          <h3>Add New Task</h3>
+          <h3>Add New Task </h3>
           <div className="input-group">
             <input
               type="text"
@@ -197,7 +197,7 @@ const TodoList = () => {
           {filteredTodos.length === 0 ? (
             <div className="empty-state">
               <CheckCircle size={48} />
-              <h3>All done! 🎉</h3>
+              <h3> congrats! All done! 🎉</h3>
               <p>No tasks in {filter} view</p>
             </div>
           ) : (
